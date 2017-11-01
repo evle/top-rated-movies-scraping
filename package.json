@@ -1,0 +1,16 @@
+{
+  "name": "web-scraping",
+  "version": "1.0.0",
+  "description": "Simple web scraper to get a movie name, release year and community rating from IMDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "evle",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
